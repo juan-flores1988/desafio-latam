@@ -37,3 +37,22 @@ body {
   }
 
 }
+
+.cocina{
+  height: 250px;
+  width: 350px;
+  border: solid;
+}
+
+.Critica{
+  height: 250px;
+  width: 350px;
+  border: solid;
+}
+
+.bloguera{
+  height: 250px;
+  width: 350px;
+  border: solid;
+}
+
